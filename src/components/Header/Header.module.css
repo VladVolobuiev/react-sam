@@ -1,0 +1,23 @@
+.header {
+  grid-area: h;
+}
+.header img {
+  width: 55px;
+}
+.loginBlock {
+  float: right;
+}
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 4px;
+}
+.login {
+  text-decoration: none;
+  font-weight: bold;
+}
