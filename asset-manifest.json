@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-sam/static/css/main.9e39ca6f.chunk.css",
+    "main.js": "/react-sam/static/js/main.64b8bbd6.chunk.js",
+    "main.js.map": "/react-sam/static/js/main.64b8bbd6.chunk.js.map",
+    "runtime-main.js": "/react-sam/static/js/runtime-main.8e33b89e.js",
+    "runtime-main.js.map": "/react-sam/static/js/runtime-main.8e33b89e.js.map",
+    "static/js/2.fbf3f572.chunk.js": "/react-sam/static/js/2.fbf3f572.chunk.js",
+    "static/js/2.fbf3f572.chunk.js.map": "/react-sam/static/js/2.fbf3f572.chunk.js.map",
+    "static/css/3.f017b7cf.chunk.css": "/react-sam/static/css/3.f017b7cf.chunk.css",
+    "static/js/3.f97ac4ec.chunk.js": "/react-sam/static/js/3.f97ac4ec.chunk.js",
+    "static/js/3.f97ac4ec.chunk.js.map": "/react-sam/static/js/3.f97ac4ec.chunk.js.map",
+    "static/css/4.1d27d4ef.chunk.css": "/react-sam/static/css/4.1d27d4ef.chunk.css",
+    "static/js/4.9b217ec8.chunk.js": "/react-sam/static/js/4.9b217ec8.chunk.js",
+    "static/js/4.9b217ec8.chunk.js.map": "/react-sam/static/js/4.9b217ec8.chunk.js.map",
+    "static/js/5.aa89e5c4.chunk.js": "/react-sam/static/js/5.aa89e5c4.chunk.js",
+    "static/js/5.aa89e5c4.chunk.js.map": "/react-sam/static/js/5.aa89e5c4.chunk.js.map",
+    "index.html": "/react-sam/index.html",
+    "static/css/3.f017b7cf.chunk.css.map": "/react-sam/static/css/3.f017b7cf.chunk.css.map",
+    "static/css/4.1d27d4ef.chunk.css.map": "/react-sam/static/css/4.1d27d4ef.chunk.css.map",
+    "static/css/main.9e39ca6f.chunk.css.map": "/react-sam/static/css/main.9e39ca6f.chunk.css.map",
+    "static/js/2.fbf3f572.chunk.js.LICENSE.txt": "/react-sam/static/js/2.fbf3f572.chunk.js.LICENSE.txt",
+    "static/media/preloader.45df2d82.gif": "/react-sam/static/media/preloader.45df2d82.gif",
+    "static/media/user.png": "/react-sam/static/media/user.54a56b64.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e33b89e.js",
+    "static/js/2.fbf3f572.chunk.js",
+    "static/css/main.9e39ca6f.chunk.css",
+    "static/js/main.64b8bbd6.chunk.js"
+  ]
+}
