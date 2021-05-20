@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-sam/static/css/main.5e2b15ac.chunk.css",
+    "main.css": "/react-sam/static/css/main.3f15ceb0.chunk.css",
     "main.js": "/react-sam/static/js/main.634303f6.chunk.js",
     "main.js.map": "/react-sam/static/js/main.634303f6.chunk.js.map",
     "runtime-main.js": "/react-sam/static/js/runtime-main.644ef016.js",
@@ -18,7 +18,7 @@
     "index.html": "/react-sam/index.html",
     "static/css/3.f017b7cf.chunk.css.map": "/react-sam/static/css/3.f017b7cf.chunk.css.map",
     "static/css/4.7bcc7987.chunk.css.map": "/react-sam/static/css/4.7bcc7987.chunk.css.map",
-    "static/css/main.5e2b15ac.chunk.css.map": "/react-sam/static/css/main.5e2b15ac.chunk.css.map",
+    "static/css/main.3f15ceb0.chunk.css.map": "/react-sam/static/css/main.3f15ceb0.chunk.css.map",
     "static/js/2.14ef9d66.chunk.js.LICENSE.txt": "/react-sam/static/js/2.14ef9d66.chunk.js.LICENSE.txt",
     "static/media/preloader.45df2d82.gif": "/react-sam/static/media/preloader.45df2d82.gif",
     "static/media/user.png": "/react-sam/static/media/user.54a56b64.png"
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.644ef016.js",
     "static/js/2.14ef9d66.chunk.js",
-    "static/css/main.5e2b15ac.chunk.css",
+    "static/css/main.3f15ceb0.chunk.css",
     "static/js/main.634303f6.chunk.js"
   ]
 }
